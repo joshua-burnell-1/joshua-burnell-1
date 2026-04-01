@@ -36,4 +36,4 @@ More on the way.
 ---
 
 *Based in San Francisco.*
-[LinkedIn](https://www.linkedin.com/in/joshburnell)
+[LinkedIn](https://www.linkedin.com/in/burnelljoshua/)
