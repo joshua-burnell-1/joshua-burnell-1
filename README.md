@@ -1,26 +1,34 @@
 ### Hey, I'm Josh 👋
 
-I'm a Product Manager who builds tools instead of writing tickets about them.
+I'm a product manager working in AI. I lead teams during the day and
+build small things at night, mostly because I think you can't really
+lead AI products without staying close to how they actually get made.
 
-Most of what's in here is for PMs, designers, and other non-engineers who
-want to use Claude Code seriously but keep hitting the "wait, how do I..." wall.
-I built each of these because I needed it, then cleaned them up enough to share.
+Everything here is a side project. Most of it is for PMs, designers,
+and other non-engineers trying to use Claude Code (and tools like it)
+without an engineer sitting next to them. I build each one because
+I wanted it for my own work, then clean it up enough that someone
+else might want it too.
 
-**A few honest things up front:**
-- I'm not an engineer. The code works, but it's not always elegant.
-- If you see something that should be refactored, simplified, or done
-  in half the lines — please open a PR. I will learn from it.
-- If you're a PM who's intimidated by all of this, that's exactly who
-  I built it for. Open an issue with what confused you.
+A few things worth saying:
 
-**What I'm into right now:** conversational AI, agentic workflows,
-voice AI at scale, and figuring out what "AI-native product management"
-actually means in practice.
+I'm not an engineer. The code works. It's not always pretty. If you
+look at something and think "this could be half the lines" — please
+send the PR. I'll read it and probably learn something.
 
-**Currently building:** small tools that lower the barrier to AI-assisted
-work for people who don't write code for a living.
+If you're a PM who feels a step behind on all of this, you're who
+I'm building for. Open an issue. Tell me where you got stuck. That's
+genuinely useful.
 
-If something here is useful to you, I'd love to know. If something is
-broken or could be better, I'd love that even more.
+What I'm into lately: conversational AI, agentic workflows, and
+trying to figure out what "AI-native product management" actually
+means day to day, not as a slide.
+
+How to contribute: stars are nice. PRs are better. An issue that
+says "I tried this and got stuck at X" is the best, because it
+tells me where the tool is failing the person it was supposed to help.
+
+If something here is useful, I'd love to hear it. If something's
+broken or could be better, I'd love that more.
 
 [LinkedIn](https://www.linkedin.com/in/burnelljoshua/)
