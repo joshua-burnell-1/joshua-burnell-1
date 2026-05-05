@@ -13,7 +13,7 @@ else might want it too.
 A few things worth saying:
 
 I'm not an engineer. The code works. It's not always pretty. If you
-look at something and think "this could be half the lines" — please
+look at something and think "this could be half the lines" please
 send the PR. I'll read it and probably learn something.
 
 If you're a PM who feels a step behind on all of this, you're who
