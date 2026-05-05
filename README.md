@@ -1,39 +1,24 @@
-# Josh
+### Hey, I'm Josh 👋
 
-I work in product leading AI. In my free time I build apps and tools
-that make AI coding easier to use — for me, and hopefully for you too.
+I'm a Product Manager who builds tools instead of writing tickets about them.
 
----
+Most of what's in here is for PMs, designers, and other non-engineers who
+want to use Claude Code seriously but keep hitting the "wait, how do I..." wall.
+I built each of these because I needed it, then cleaned them up enough to share.
 
-## Projects
+**A few honest things up front:**
+- I'm not an engineer. The code works, but it's not always elegant.
+- If you see something that should be refactored, simplified, or done
+  in half the lines — please open a PR. I will learn from it.
+- If you're a PM who's intimidated by all of this, that's exactly who
+  I built it for. Open an issue with what confused you.
 
-**[claude-memory-manager](https://github.com/joshua-burnell-1/claude-memory-manager)**
-CLI that interviews you about your project and writes a structured `CLAUDE.md`
-memory file for Claude Code. Solves context loss between sessions.
+**What I'm into right now:** conversational AI, agentic workflows,
+voice AI at scale, and figuring out what "AI-native product management"
+actually means in practice.
 
-**[pm-persona-builder](https://github.com/joshua-burnell-1/pm-persona-builder)**
-Guided CLI that helps you define your AI assistant persona through targeted
-questions, then outputs a ready-to-use system prompt for Claude.ai, Claude Code,
-or the API.
+**Currently building:** small tools that lower the barrier to AI-assisted
+work for people who don't write code for a living.
 
-**[context-window-logger](https://github.com/joshua-burnell-1/context-window-logger)**
-Wraps the Claude API to track token usage, visualize context window fill, and
-auto-compress conversation history before you hit the limit.
-
-**[claude-session-briefing](https://github.com/joshua-burnell-1/claude-session-briefing)**
-Startup script that runs when you launch Claude Code and prints a session briefing:
-current permission mode explained plainly, detected API keys and integrations,
-and model recommendations by task type.
-
-**[pm-to-claude](https://github.com/joshua-burnell-1/pm-to-claude)**
-Mission-based learning CLI for product managers getting started with Claude Code.
-Short hands-on exercises that teach one real workflow skill at a time.
-
----
-
-More on the way.
-
----
-
-*Based in San Francisco.*
-[LinkedIn](https://www.linkedin.com/in/burnelljoshua/)
+If something here is useful to you, I'd love to know. If something is
+broken or could be better, I'd love that even more.
