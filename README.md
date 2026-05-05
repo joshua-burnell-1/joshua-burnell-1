@@ -1,4 +1,4 @@
-### Hey, I'm Josh 👋
+### Hey, I'm Josh
 
 I'm a product manager working in AI. I lead teams during the day and
 build small things at night, mostly because I think you can't really
