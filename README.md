@@ -22,3 +22,5 @@ work for people who don't write code for a living.
 
 If something here is useful to you, I'd love to know. If something is
 broken or could be better, I'd love that even more.
+
+[LinkedIn](https://www.linkedin.com/in/burnelljoshua/)
